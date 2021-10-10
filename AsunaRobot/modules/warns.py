@@ -3,7 +3,7 @@ import re
 from typing import Optional
 
 import telegram
-from AsunaRobot import BAN_STICKER, TIGERS, WOLVES, dispatcher, REDIS
+from AsunaRobot import BAN_STICKER, TIGERS, WOLVES, dispatcher
 from AsunaRobot.modules.disable import DisableAbleCommandHandler
 from AsunaRobot.modules.helper_funcs.chat_status import (
     bot_admin,
