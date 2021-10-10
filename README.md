@@ -32,8 +32,7 @@
 
 ### Easiest Way To Deploy On Heroku 
 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/H https://heroku.com/deploy?template=https://github.com/Msvendetta3301/AsunaRobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Msvendetta3301/AsunaRobot)
 
 ```
 
