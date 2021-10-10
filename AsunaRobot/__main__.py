@@ -76,42 +76,20 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 `Hello` [🧚‍♀️](https://telegra.ph/file/7274507d4da6ff6f3785d.mp4) `My name is` *Asuna*
 `I am powerful  group management bot.
-Build by The Ghost Hunter for Your Telegram Group , I specialize in managing Entertainment type groups.
+ I specialize in managing Entertainment type groups.
 You can find my list of available commands with! Hit` *🔰Commands*   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD ME TO YOUR GROUP ➕️", url="t.me/My_Asuna_Robot?startgroup=true"
+            text="➕️ ADD ME TO YOUR GROUP ➕️", url="t.me/Miss_Nemesis_bot?startgroup=true"
         ),
     ],
-    [
-        InlineKeyboardButton(text="❗ ABOUT", callback_data="asuna_"),
         InlineKeyboardButton(text="🔰 COMMANDS", callback_data="help_back"),
     ],
-    [
-        InlineKeyboardButton(
-            text="🤴 OWNER", url="https://telegram.dog/The_Ghost_Hunter"
-        ),
-    ],
-    [
-        InlineKeyboardButton(
-            text="📺 Star Wolrd Entertainment",
-            url="https://telegram.dog/fire_world_entertainment",
-        ),
-    ],
-    [
-        InlineKeyboardButton(text="🗨️ Logis", url="https://t.me/AsunaLogUpdate"),
-        InlineKeyboardButton(
-            text="👥 SUPPORT", url="https://telegram.dog/AsunaRobotSupport"
-        ),
-    ],
-    [
-        InlineKeyboardButton(
-            text="💾 Source Code", url="https://github.com/HuntingBots/AsunaRobot"
-        ),
-    ],
+    
+    
 ]
 
 
