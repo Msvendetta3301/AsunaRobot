@@ -83,13 +83,10 @@ You can find my list of available commands with! Hit` *🔰Commands*
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD ME TO YOUR GROUP ➕️", url="t.me/Miss_Nemesis_bot?startgroup=true"
-        ),
-    ],
+            text="➕️ ADD ME TO YOUR GROUP ➕️", url="t.me/Miss_Nemesis_bot?startgroup=true"),
         InlineKeyboardButton(text="🔰 COMMANDS", callback_data="help_back"),
     ],
-    
-    
+   
 ]
 
 
